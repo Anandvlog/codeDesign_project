@@ -1,0 +1,14 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar a .user_img
+{
+    width: 3vw;
+}
+.owl-carousel .owl-item img
+{
+    width: 40% !important;
+}
