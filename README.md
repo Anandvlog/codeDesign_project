@@ -1,2 +1,3 @@
 # codeDesign_project
-<img src="Music_project12.gif"><br><br>
+<h1>Music-section dshboard</h1><br><br>
+<img src="Music_project12.gif">
